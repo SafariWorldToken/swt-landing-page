@@ -3,7 +3,8 @@
 /**yarn.lock
 /**package-lock.json
 /dist
-
+/.env
+/.env.production
 # local env files
 .env.local
 .env.*.local
