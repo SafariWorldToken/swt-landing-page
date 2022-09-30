@@ -70,18 +70,95 @@
           </div>
           <div data-aos="fade-up" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out">
             <h2>Who We Are</h2>
-            <hr class="style-two" >  
-            <h3>Meet The Team</h3> 
-            <ul>
+            <hr class="style-two" >
+            <div class="team_container">
               
-            <li><a href="https://www.linkedin.com/in/douwe-relborg-448571108/" target="_blank">Douw</a>  - (CTO) Project Lead - South-Africa</li>
-            <li><a href="https://www.linkedin.com/in/mitch-carrara-bb43a1249/" target="_blank">Mitch</a> - Lead Dev - America</li>
-            <li><a href="https://www.linkedin.com/in/andrearizzi/" target="_blank">Andrea</a> - Backend Solidity Dev - Italy</li>
-            <li><a href="https://www.linkedin.com/in/leonduplessis/" target="_blank">Leon</a> - Systems Architect / Infrastructure - Ireland</li>            
-            <li><a href="https://www.linkedin.com/in/anthony-freeme-64696a28/" target="_blank">Anthony</a> - Marketing / Research - South-Africa</li> 
-            <li><a href="https://hive.blog/@dave1969/" target="_blank">Dave</a> - Professional Safari Guide / Location Coordinator - South-Africa</li>    
-                              
-            </ul>
+              <h3>Meet The Team</h3>
+              <div class="grid">
+                <a href="https://www.linkedin.com/in/douwe-relborg-448571108/" target="_blank">
+                  <div class="nft_container">
+                      <div class="nft_wrapper">
+                        <div class="nft_card shimmer">
+                          <div class="nft_content">
+                            <div class="nft_img"><img src="../assets/img/douw.webp" alt="" width="200"></div>
+                          </div>
+                          
+                          <div class="nft_footer">
+                            <div class="nft_name">Douw</div>
+                            <div class="nft_description">(CTO) Project Lead</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.linkedin.com/in/mitch-carrara-bb43a1249/" target="_blank">
+                    <div class="nft_container">
+                      <div class="nft_wrapper">
+                        <div class="nft_card shimmer">
+                          <div class="nft_content">
+                            <div class="nft_img"><img src="../assets/img/mitch.webp" alt="" width="200"></div>
+                          </div>
+                          
+                          <div class="nft_footer">
+                            <div class="nft_name">Mitch</div>
+                            <div class="nft_description">Lead Developer</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.linkedin.com/in/leonduplessis/" target="_blank">
+                    <div class="nft_container">
+                      <div class="nft_wrapper">
+                        <div class="nft_card shimmer">
+                          <div class="nft_content">
+                            <div class="nft_img"><img src="../assets/img/leon.webp" alt="" width="200"></div>
+                          </div>
+                          
+                          <div class="nft_footer">
+                            <div class="nft_name">Leon</div>
+                            <div class="nft_description">Systems Architect / Infrastructure</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.linkedin.com/in/anthony-freeme-64696a28/" target="_blank">
+                    <div class="nft_container">
+                      <div class="nft_wrapper">
+                        <div class="nft_card shimmer">
+                          <div class="nft_content">
+                            <div class="nft_img"><img src="../assets/img/anthony.webp" alt="" width="200"></div>
+                          </div>
+                          
+                          <div class="nft_footer">
+                            <div class="nft_name">Anthony</div>
+                            <div class="nft_description">Marketing / Research</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://hive.blog/@dave1969/" target="_blank">
+                    <div class="nft_container">
+                      <div class="nft_wrapper">
+                        <div class="nft_card shimmer">
+                          <div class="nft_content">
+                            <div class="nft_img"><img src="../assets/img/dave.webp" alt="" width="200"></div>
+                          </div>
+                          
+                          <div class="nft_footer">
+                            <div class="nft_name">Dave</div>
+                            <div class="nft_description">Professional Safari Guide / Location Coordinator</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                                    
+
+              </div>
+            </div>
             <hr class="style-two" >   
           </div>
           <div >
