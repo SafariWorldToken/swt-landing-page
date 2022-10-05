@@ -123,6 +123,38 @@
                       </div>
                     </div>
                   </a>
+                  <a href="https://www.linkedin.com/in/sbusiso-monareng-0aa27672/" target="_blank">
+                    <div class="nft_container">
+                      <div class="nft_wrapper">
+                        <div class="nft_card shimmer">
+                          <div class="nft_content">
+                            <div class="nft_img"><img src="../assets/img/Sbu.webp" alt="" width="200"></div>
+                          </div>
+                          
+                          <div class="nft_footer">
+                            <div class="nft_name">Sbusiso</div>
+                            <div class="nft_description">Full Stack Developer</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="https://www.linkedin.com/in/zweli-mthethwa-244b45a8/" target="_blank">
+                    <div class="nft_container">
+                      <div class="nft_wrapper">
+                        <div class="nft_card shimmer">
+                          <div class="nft_content">
+                            <div class="nft_img"><img src="../assets/img/zweli.webp" alt="" width="200"></div>
+                          </div>
+                          
+                          <div class="nft_footer">
+                            <div class="nft_name">Zweli</div>
+                            <div class="nft_description">Full Stack Developer</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
                   <a href="https://www.linkedin.com/in/anthony-freeme-64696a28/" target="_blank">
                     <div class="nft_container">
                       <div class="nft_wrapper">
