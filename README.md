@@ -1,4 +1,5 @@
 # safariworld
+node v14.18.0
 
 or npm if you prefer that
 ## Project setup
